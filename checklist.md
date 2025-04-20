@@ -82,9 +82,9 @@
   - ::missable:: Save [Nadira](https://bg3.wiki/wiki/Nadira) from a Bugbear Assasin
   - ::missable:: Heal [Pandirna](https://bg3.wiki/wiki/Pandirna) from paralysis
 - ::task:: [Arron](https://bg3.wiki/wiki/Arron) offers merchant services
-  - ::item_rare:: [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
+  - ::item_rare:: [⭐Gloves of Missile Snaring⭐](https://bg3.wiki/wiki/Gloves%20of%20Missile%20Snaring)
   - ::item_uncommon:: [Dragon's Grasp](https://bg3.wiki/wiki/Dragon's%20Grasp)
-  - ::item_uncommon:: [Ring of Flinging](https://bg3.wiki/wiki/Ring%20of%20Flinging)
+  - ::item_uncommon:: [⭐Ring of Flinging⭐](https://bg3.wiki/wiki/Ring%20of%20Flinging)
   - ::item_uncommon:: [Hedge Wanderer Armour](https://bg3.wiki/wiki/Hedge%20Wanderer%20Armour)
   - ::item_uncommon:: [Rain Dancer](https://bg3.wiki/wiki/Rain%20Dancer)
   - ::item_uncommon:: [Spellthief](https://bg3.wiki/wiki/Spellthief)
@@ -96,7 +96,7 @@
   - ::item_uncommon:: [Corellon's Grace](https://bg3.wiki/wiki/Corellon's%20Grace)
 - ::task:: [Volo](https://bg3.wiki/wiki/Volo) offers merchant services
   - ::missable:: Volo will no longer sell this item after leaving the Emerald Grove
-  - ::item_uncommon:: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
+  - ::item_uncommon:: [⭐The Whispering Promise⭐](https://bg3.wiki/wiki/The_Whispering_Promise)
 - ::task:: Recruit [Wyll](https://bg3.wiki/wiki/Wyll) for some missable items
   - ::item_ordinary:: [Wyll's Earthy Garb](https://bg3.wiki/wiki/Wyll%27s_Earthy_Garb)
   - ::item_ordinary:: [Wyll's Underwear](https://bg3.wiki/wiki/Wyll%27s_Underwear)
@@ -109,10 +109,10 @@
   - ::task:: [Arabella](https://bg3.wiki/wiki/Arabella) must not die
   - ::item_uncommon:: [Komira's Locket](https://bg3.wiki/wiki/Komira's%20Locket)
 - ::missable:: Complete [Investigate the Beach](https://bg3.wiki/wiki/Investigate_the_Beach) before completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
-- ::missable:: Compelte [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
+- ::missable:: Complete [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) before [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
   - ::item_uncommon:: [⭐Broodmother's Revenge⭐](https://bg3.wiki/wiki/Broodmother's%20Revenge) (Kagha Dies or is Knocked Out) (#1)
   - ::item_rare:: [Pale Oak](https://bg3.wiki/wiki/Pale%20Oak) (Kagha Survives and player is Druid)
-  - ::item_uncommon:: [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider's%20Pride)
+  - ::item_uncommon:: [⭐Hellrider's Pride⭐](https://bg3.wiki/wiki/Hellrider's%20Pride)
 - ::missable:: Complete [Steal the Sacred Idol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) after [Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) and before [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees)
   - ::item_rare:: [⭐Ring of Protection⭐](https://bg3.wiki/wiki/Ring%20of%20Protection)
 - ::task:: After completing [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees), accept the reward for a missable item
@@ -137,7 +137,7 @@
 - ::item_uncommon:: [Githyanki Greatsword (Psionic)](https://bg3.wiki/wiki/Githyanki%20Greatsword%20(Psionic))
 - ::item_uncommon:: [Gloves of Heroism](https://bg3.wiki/wiki/Gloves%20of%20Heroism)
 - ::item_uncommon:: [Reason's Grasp](https://bg3.wiki/wiki/Reason's%20Grasp)
-- ::item_uncommon:: [Smuggler's Ring](https://bg3.wiki/wiki/Smuggler's%20Ring)
+- ::item_uncommon:: [⭐Smuggler's Ring⭐](https://bg3.wiki/wiki/Smuggler's%20Ring)
 - ::item_uncommon:: [Speedy Reply](https://bg3.wiki/wiki/Speedy%20Reply)
 - ::item_uncommon:: [⭐Sword of Justice⭐](https://bg3.wiki/wiki/Sword%20of%20Justice)
 - ::item_common:: [Broken Padded Armour](https://bg3.wiki/wiki/Broken%20Padded%20Armour)
@@ -148,7 +148,7 @@
 # Blighted Village
 - ::item_story:: The first opportunity to find the [Bloody Amulet](https://bg3.wiki/wiki/Bloody%20Amulet).  It is not recommended to obtain this.
 - ::item_rare:: [⭐Haste Helm⭐](https://bg3.wiki/wiki/Haste%20Helm)
-- ::item_rare:: [Sussur Dagger](https://bg3.wiki/wiki/Sussur%20Dagger)
+- ::item_rare:: [⭐Sussur Dagger⭐](https://bg3.wiki/wiki/Sussur%20Dagger)
 - ::item_rare:: [Sussur Greatsword](https://bg3.wiki/wiki/Sussur%20Greatsword)
 - ::item_rare:: [Sussur Sickle](https://bg3.wiki/wiki/Sussur%20Sickle)
 - ::item_rare:: [The Speedy Lightfeet](https://bg3.wiki/wiki/The%20Speedy%20Lightfeet)
@@ -169,7 +169,7 @@
   - Nab the [Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)
 - In one of the houses north of the village, there is a bugbear having a moment with their partner
 # Apothecary's Cellar
-- ::item_rare:: [Bracers of Defence](https://bg3.wiki/wiki/Bracers%20of%20Defence)
+- ::item_rare:: [⭐Bracers of Defence⭐](https://bg3.wiki/wiki/Bracers%20of%20Defence)
 # Whispering Depths
 - ::item_uncommon:: [Poisoner's Robe](https://bg3.wiki/wiki/Poisoner's%20Robe)
 - ::item_uncommon:: [Spiderstep Boots](https://bg3.wiki/wiki/Spiderstep%20Boots)
@@ -178,7 +178,7 @@
 - After you discover [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss), speak to him before long resting, or deal with some permanent consequences
 - If you decide to fight, remember you can cause [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to drop [his sword](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane) for Lae'zel with the command spell
 # Owlbear Nest
-- ::item_uncommon:: [Moondrop Pendant](https://bg3.wiki/wiki/Moondrop%20Pendant)
+- ::item_uncommon:: [⭐Moondrop Pendant⭐](https://bg3.wiki/wiki/Moondrop%20Pendant)
 - ::item_uncommon:: [The Oak Father's Embrace](https://bg3.wiki/wiki/The%20Oak%20Father's%20Embrace)
 - ::missable::[Fight some owlbears](https://bg3.wiki/wiki/Owlbear_Nest) and leave a scent to follow for the baby (do this now, or an owlbear will die after a long rest)
 - Check out [the shrine](https://bg3.wiki/wiki/Owlbear_Nest#Sel%C3%BBne_Shrine) and complete a shrine puzzle to unlock a chest
@@ -201,7 +201,7 @@
 - Free [the artist](https://bg3.wiki/wiki/Free_the_Artist)
 - [Brem](https://bg3.wiki/wiki/Brem) offers merchant services
   - ::missable:: Brem's special stock can be accessed after gaining [](https://bg3.wiki/wiki/Zarys') approval
-  - ::item_rare:: [Giantbreaker](https://bg3.wiki/wiki/Giantbreaker)
+  - ::item_rare:: [⭐Giantbreaker⭐](https://bg3.wiki/wiki/⭐Giantbreaker⭐)
   - ::item_rare:: [The Jolty Vest](https://bg3.wiki/wiki/The%20Jolty%20Vest)
   - ::item_rare:: [⭐Titanstring Bow⭐](https://bg3.wiki/wiki/Titanstring_Bow)
   - ::item_uncommon:: [Gloves of Hail of Thorns](https://bg3.wiki/wiki/Gloves%20of%20Hail%20of%20Thorns) (special stock)
@@ -224,7 +224,7 @@
 - ::item_veryrare:: [The Spectator Eyes](https://bg3.wiki/wiki/The%20Spectator%20Eyes)
 - ::item_rare:: [⭐Phalar Aluve⭐](https://bg3.wiki/wiki/Phalar%20Aluve)
 - ::item_uncommon:: [Amulet of the Unworthy](https://bg3.wiki/wiki/Amulet%20of%20the%20Unworthy)
-- ::item_uncommon:: [Bloodguzzler Garb](https://bg3.wiki/wiki/Bloodguzzler%20Garb)
+- ::item_uncommon:: [⭐Bloodguzzler Garb⭐](https://bg3.wiki/wiki/Bloodguzzler%20Garb)
 - ::item_uncommon:: [Explorer's Ring](https://bg3.wiki/wiki/Explorer's%20Ring)
 - ::item_uncommon:: [Exterminator's Axe](https://bg3.wiki/wiki/Exterminator's%20Axe)
 - ::item_uncommon:: [Shortsword of First Blood](https://bg3.wiki/wiki/Shortsword%20of%20First%20Blood)
@@ -250,8 +250,8 @@
 - If you find a small grave site in a clearing, don't touch it until you read a certain note regarding a canine companion in the Arcane Tower
   - Once you've done that, grab the collar from within and use it with the Arcane Tower button
 # Myconid Colony
-- ::item_rare:: [Boots of Genial Striding](https://bg3.wiki/wiki/Boots%20of%20Genial%20Striding)
-- ::item_rare:: [Boots of Speed](https://bg3.wiki/wiki/Boots%20of%20Speed)
+- ::item_rare:: [⭐Boots of Genial Striding⭐](https://bg3.wiki/wiki/Boots%20of%20Genial%20Striding)
+- ::item_rare:: [⭐Boots of Speed⭐](https://bg3.wiki/wiki/Boots%20of%20Speed)
 - ::item_rare:: [Champion's Chain](https://bg3.wiki/wiki/Champion's%20Chain)
 - ::item_rare:: [Circlet of Blasting](https://bg3.wiki/wiki/Circlet%20of%20Blasting)
 - ::item_rare:: [Creation's Echo](https://bg3.wiki/wiki/Creation's%20Echo)
@@ -260,7 +260,7 @@
 - ::item_rare:: [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring%20of%20Mind-Shielding)
 - ::item_rare:: [Shadow of Menzoberranzan](https://bg3.wiki/wiki/Shadow%20of%20Menzoberranzan)
 - ::item_rare:: [The Baneful](https://bg3.wiki/wiki/The%20Baneful)
-- ::item_uncommon:: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots%20of%20Stormy%20Clamour)
+- ::item_uncommon:: [⭐Boots of Stormy Clamour⭐](https://bg3.wiki/wiki/Boots%20of%20Stormy%20Clamour)
 - ::item_uncommon:: [Cinder Shoes](https://bg3.wiki/wiki/Cinder%20Shoes)
 - ::item_uncommon:: [Melf's First Staff](https://bg3.wiki/wiki/Melf's%20First%20Staff)
 - ::item_uncommon:: [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl%20of%20Power%20Amulet)
@@ -270,7 +270,7 @@
 - ::item_uncommon:: [The Lifebringer](https://bg3.wiki/wiki/The%20Lifebringer)
 - ::item_uncommon:: [The Shadespell Circlet](https://bg3.wiki/wiki/The%20Shadespell%20Circlet)
 - [Derryth Bonecloak](https://bg3.wiki/wiki/Derryth_Bonecloak) offers merchant services
-  - ::item_rare:: [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration)
+  - ::item_rare:: [⭐Amulet of Restoration⭐](https://bg3.wiki/wiki/Amulet_of_Restoration)
   - ::item_rare:: [Corrosive Flail](https://bg3.wiki/wiki/Corrosive%20Flail)
   - ::item_uncommon:: [⭐Caustic Band⭐](https://bg3.wiki/wiki/Caustic%20Band)
   - ::item_uncommon:: [Gloves of Hail of Thorns](https://bg3.wiki/wiki/Gloves%20of%20Hail%20of%20Thorns)
@@ -278,7 +278,7 @@
   - ::item_uncommon:: [Herbalist's Gloves](https://bg3.wiki/wiki/Herbalist's%20Gloves)
 # Selûnite Outpost
 - ::item_uncommon:: [Helmet of Smiting](https://bg3.wiki/wiki/Helmet%20of%20Smiting)
-- ::item_uncommon:: [Luminous Armour](https://bg3.wiki/wiki/Luminous%20Armour)
+- ::item_uncommon:: [⭐Luminous Armour⭐](https://bg3.wiki/wiki/Luminous%20Armour)
 - ::item_uncommon:: [The Blast Pendant](https://bg3.wiki/wiki/The%20Blast%20Pendant)
 # The Festering Cove
 - ::item_rare:: [Drow Studded Leather Armour (R1)](https://bg3.wiki/wiki/Drow%20Studded%20Leather%20Armour%20(R1))
@@ -293,7 +293,7 @@
 - ::item_uncommon:: [Mystra's Grace](https://bg3.wiki/wiki/Mystra's%20Grace)
 - ::item_uncommon:: [Skybreaker](https://bg3.wiki/wiki/Skybreaker)
 - ::item_uncommon:: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff%20of%20Arcane%20Blessing)
-- ::item_uncommon:: [The Sparkswall](https://bg3.wiki/wiki/The%20Sparkswall)
+- ::item_uncommon:: [⭐The Sparkswall⭐](https://bg3.wiki/wiki/The%20Sparkswall)
 - ::item_common:: [Dog Collar (C2)](https://bg3.wiki/wiki/Dog%20Collar%20(C2))
 - Use the dog collar to [achieve an unexpected result with a button](https://bg3.wiki/wiki/Dog_Collar)
   - Find and dig on a dog's grave on the Underdark Road to find the necessary item
@@ -305,7 +305,7 @@
 # Grymforge
 - ::item_veryrare:: [⭐Disintegrating Night Walkers⭐](https://bg3.wiki/wiki/Disintegrating%20Night%20Walkers)
 - ::item_rare:: [Bow of the Banshee](https://bg3.wiki/wiki/Bow%20of%20the%20Banshee)
-- ::item_rare:: [Cap of Wrath](https://bg3.wiki/wiki/Cap%20of%20Wrath)
+- ::item_rare:: [⭐Cap of Wrath⭐](https://bg3.wiki/wiki/Cap%20of%20Wrath)
 - ::item_rare:: [Fetish of Callarduran Smoothhands](https://bg3.wiki/wiki/Fetish%20of%20Callarduran%20Smoothhands)
 - ::item_rare:: [Jorgoral's Greatsword](https://bg3.wiki/wiki/Jorgoral's%20Greatsword)
 - ::item_rare:: [Sentient Amulet (R1)](https://bg3.wiki/wiki/Sentient%20Amulet%20(R1))
@@ -345,6 +345,7 @@
 - ::item_rare:: [Adamantine Scimitar](https://bg3.wiki/wiki/Adamantine%20Scimitar)
 - ::item_rare:: [⭐Adamantine Shield⭐](https://bg3.wiki/wiki/Adamantine%20Shield)
 # Goblin Camp
+- ::item_uncommon:: [⭐Amulet of Misty Step⭐](https://bg3.wiki/wiki/Amulet%20of%20Misty%20Step)
 - ::missable:: Note: Goblin Camp has been listed last due to pacing requirements
   - ::missable:: Several quests become unavailable once the area becomes hostile
   - ::missable:: Several quests become unavailable once [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins) is completed
@@ -362,7 +363,7 @@
   - ::item_rare:: [Swiresy Shoes](https://bg3.wiki/wiki/Swiresy%20Shoes)
   - ::item_uncommon:: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots%20of%20Aid%20and%20Comfort)
   - ::item_uncommon:: [Doom Hammer](https://bg3.wiki/wiki/Doom%20Hammer)
-  - ::item_uncommon:: [Gloves of Archery](https://bg3.wiki/wiki/Gloves%20of%20Archery)
+  - ::item_uncommon:: [⭐Gloves of Archery⭐](https://bg3.wiki/wiki/Gloves%20of%20Archery)
   - ::item_uncommon:: [Returning Pike](https://bg3.wiki/wiki/Returning%20Pike)
 - ::task:: [Roah Moonglow](https://bg3.wiki/wiki/Roah_Moonglow) offers merchant services
   - ::item_rare:: [Blooded Greataxe](https://bg3.wiki/wiki/Blooded%20Greataxe)
@@ -386,11 +387,13 @@
   - ::task:: Defeat [Priestess Gut](https://bg3.wiki/wiki/Gut) and do not get caught
   - ::task:: Defeat [Scrying Eye](https://bg3.wiki/wiki/Scrying_Eye) and do not get caught
   - ::task:: Speak to [Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin) and accept instruction to report to [Minthara](https://bg3.wiki/wiki/Minthara)
+	- ::item_uncommon:: [⭐Gloves of the Growling Underdog⭐](https://bg3.wiki/wiki/Gloves%20of%20the%20Growling%20Underdog)
   - ::task:: Perform any preperation needed to defeat Dror Ragzlin, (barrels, etc) but do not start combat
   - ::task:: Immediately after receiving the reward for [Save the Goblin Sazza](https://bg3.wiki/wiki/Save_the_Goblin_Sazza), enter turn based mode and steal in front of Minthara.
   - ::task:: Ensure Minthara and Sazza are temporary hostile
   - ::task:: Enable [Non-Leathal Attacks](https://bg3.wiki/wiki/Toggle_Non-Lethal_Attacks) and defeat Minthara and Sazza.
   - ::task:: Defeat the rest of the enemies with lethal attacks.
+  - ::item_uncommon:: [⭐Boots of Striding⭐](https://bg3.wiki/wiki/Boots%20of%20Striding)
   - ::task:: Defeat [Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin)
   - ::task:: Defeat [Abdirak](https://bg3.wiki/wiki/Abdirak) before he escapes with all his missable loot
   - ::task:: Complete [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) and [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees).
@@ -402,7 +405,7 @@
   - ::task:: Minthara will be naked in cutscenes until you recruit her in Act 2 if you loot her. Nothing is lost if you chose not to.
   - ::item_story:: [Spider Lyre](https://bg3.wiki/wiki/Spider%27s%20Lyre)
   - ::item_uncommon:: [Xyanyde](https://bg3.wiki/wiki/Xyanyde)
-  - ::item_rare:: [Spidersilk Armour](https://bg3.wiki/wiki/Spidersilk%20Armour)
+  - ::item_rare:: [⭐Spidersilk Armour⭐](https://bg3.wiki/wiki/Spidersilk%20Armour)
   - ::item_ordinary:: [Minthara's At-Ease Clothes](https://bg3.wiki/wiki/Minthara%27s_At-Ease_Clothes)
   - ::item_ordinary:: [Minthara's Underwear](https://bg3.wiki/wiki/Minthara%27s_Underwear)
   - ::item_ordinary:: [Tasteful Boots (Minthara)](https://bg3.wiki/wiki/Tasteful_Boots)
@@ -416,21 +419,21 @@
   - ::item_uncommon:: [Jagged Spear](https://bg3.wiki/wiki/Jagged%20Spear)
   - ::item_uncommon:: [Worgfang](https://bg3.wiki/wiki/Worgfang)
 - ::task:: The following items can be obtained from killing NPC's
-  - ::item_rare:: [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker%20Boots)
+  - ::item_rare:: [⭐Linebreaker Boots⭐](https://bg3.wiki/wiki/Linebreaker%20Boots)
   - ::item_uncommon:: [Absolute's Talisman](https://bg3.wiki/wiki/Absolute's%20Talisman)
   - ::item_uncommon:: [Absolute's Warboard](https://bg3.wiki/wiki/Absolute's%20Warboard)
-  - ::item_uncommon:: [Crusher's Ring](https://bg3.wiki/wiki/Crusher's%20Ring)
+  - ::item_uncommon:: [⭐Crusher's Ring⭐](https://bg3.wiki/wiki/Crusher's%20Ring)
   - ::item_uncommon:: [Faithbreaker](https://bg3.wiki/wiki/Faithbreaker)
   - ::item_uncommon:: [Loviatar's Scourge](https://bg3.wiki/wiki/Loviatar's%20Scourge)
   - ::item_uncommon:: [Ritual Axe](https://bg3.wiki/wiki/Ritual%20Axe)
-  - ::item_uncommon:: [Ritual Dagger](https://bg3.wiki/wiki/Ritual%20Dagger)
+  - ::item_uncommon:: [⭐Ritual Dagger⭐](https://bg3.wiki/wiki/Ritual%20Dagger)
 # BEFORE CONTINUING TO ACT 1.5
 - Clear anything remaining in your quest log for the area (some items will be unresolved, but do whatever's on your map) before going to Act 1.5
 # Rosymorn Monastery Trail
 - ::item_rare:: [Cacophony](https://bg3.wiki/wiki/Cacophony)
 - ::item_rare:: [Gloves of Cinder and Sizzle](https://bg3.wiki/wiki/Gloves%20of%20Cinder%20and%20Sizzle)
 - ::item_rare:: [Periapt of Wound Closure](https://bg3.wiki/wiki/Periapt%20of%20Wound%20Closure)
-- ::item_rare:: [The Graceful Cloth](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#1)
+- ::item_rare:: [⭐The Graceful Cloth⭐](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#1)
 - ::item_uncommon:: [Boots of Elemental Momentum](https://bg3.wiki/wiki/Boots%20of%20Elemental%20Momentum)
 - ::item_uncommon:: [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves%20of%20Baneful%20Striking)
 - ::item_uncommon:: [Hoppy](https://bg3.wiki/wiki/Hoppy)
@@ -447,11 +450,11 @@
 - ::item_legendary:: [The ⭐Blood of Lathander⭐](https://bg3.wiki/wiki/The%20Blood%20of%20Lathander)
 - ::item_veryrare:: [⭐Gloves of Dexterity⭐](https://bg3.wiki/wiki/Gloves%20of%20Dexterity)
 - ::item_veryrare:: [⭐Knife of the Undermountain King⭐](https://bg3.wiki/wiki/Knife%20of%20the%20Undermountain%20King)
-- ::item_rare:: [Amulet of Branding](https://bg3.wiki/wiki/Amulet%20of%20Branding)
+- ::item_rare:: [⭐Amulet of Branding⭐](https://bg3.wiki/wiki/Amulet%20of%20Branding)
 - ::item_rare:: [Circlet of Psionic Revenge](https://bg3.wiki/wiki/Circlet%20of%20Psionic%20Revenge)
 - ::item_rare:: [Daredevil Gloves](https://bg3.wiki/wiki/Daredevil%20Gloves)
-- ::item_rare:: [Defender Flail](https://bg3.wiki/wiki/Defender%20Flail)
-- ::item_rare:: [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem%20of%20Arcane%20Synergy)
+- ::item_rare:: [⭐Defender Flail⭐](https://bg3.wiki/wiki/Defender%20Flail)
+- ::item_rare:: [⭐Diadem of Arcane Synergy⭐](https://bg3.wiki/wiki/Diadem%20of%20Arcane%20Synergy)
 - ::item_rare:: [⭐Larethian's Wrath⭐](https://bg3.wiki/wiki/Larethian's%20Wrath)
 - ::item_rare:: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring%20of%20Arcane%20Synergy)
 - ::item_rare:: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker%20Greatsword)
@@ -459,9 +462,9 @@
 - ::item_rare:: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital%20Conduit%20Boots)
 - ::item_uncommon:: [Aberration Hunters' Amulet](https://bg3.wiki/wiki/Aberration%20Hunters'%20Amulet)
 - ::item_uncommon:: [Crossbow of Arcane Force](https://bg3.wiki/wiki/Crossbow%20of%20Arcane%20Force)
-- ::item_uncommon:: [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves%20of%20Belligerent%20Skies)
+- ::item_uncommon:: [⭐Gloves of Belligerent Skies⭐](https://bg3.wiki/wiki/Gloves%20of%20Belligerent%20Skies)
 - ::item_uncommon:: [Hoarfrost Boots](https://bg3.wiki/wiki/Hoarfrost%20Boots)
-- ::item_uncommon:: [Strange Conduit Ring](https://bg3.wiki/wiki/Strange%20Conduit%20Ring)
+- ::item_uncommon:: [⭐Strange Conduit Ring⭐](https://bg3.wiki/wiki/Strange%20Conduit%20Ring)
 - ::item_uncommon:: [The Skinburster](https://bg3.wiki/wiki/The%20Skinburster)
 - ::item_uncommon:: [Witchbreaker](https://bg3.wiki/wiki/Witchbreaker)
 - ::item_common:: [Plate Armour](https://bg3.wiki/wiki/Plate%20Armour)
@@ -489,7 +492,7 @@
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
-  - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
+  - ::item_uncommon:: [⭐Ring of Mental Inhibition⭐](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
   - ::item_uncommon:: [Ring of Shadows](https://bg3.wiki/wiki/Ring%20of%20Shadows)
 # Ruined Battlefield
 - ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from [Kar'niss](https://bg3.wiki/wiki/Kar%27niss).
@@ -499,7 +502,7 @@
 - ::item_uncommon:: [Family Ring](https://bg3.wiki/wiki/Family%20Ring)
 - ::item_uncommon:: [Gloomstrand Shield](https://bg3.wiki/wiki/Gloomstrand%20Shield)
 - ::item_uncommon:: [Ironwood Club](https://bg3.wiki/wiki/Ironwood%20Club)
-- ::item_uncommon:: [Luminous Gloves](https://bg3.wiki/wiki/Luminous%20Gloves)
+- ::item_uncommon:: [⭐Luminous Gloves⭐](https://bg3.wiki/wiki/Luminous%20Gloves)
 - ::item_uncommon:: [Ring of Self Immolation](https://bg3.wiki/wiki/Ring%20of%20Self%20Immolation)
 - Trim some [hedges](https://bg3.wiki/wiki/Shadow-Cursed_Vine_Blight)
   - ::item_uncommon:: [Frost Prince](https://bg3.wiki/wiki/Frost%20Prince)
@@ -511,7 +514,7 @@
   - ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
 - Destroy the everburning torches next to [Korliss](https://bg3.wiki/wiki/Korliss) and fight the [Shadow Mastiffs](https://bg3.wiki/wiki/Shadow_mastiff)
-  - ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
+  - ::item_uncommon:: [⭐Shadow-Cloaked Ring⭐](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
 # Last Light Inn
 - ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Potent Robe](https://bg3.wiki/wiki/Potent%20Robe)
@@ -519,7 +522,7 @@
 - ::item_rare:: [Rippling Force Mail](https://bg3.wiki/wiki/Rippling%20Force%20Mail)
 - ::item_rare:: [Shield of Scorching Reprisal](https://bg3.wiki/wiki/Shield%20of%20Scorching%20Reprisal)
 - ::item_rare:: [Shifting Corpus Ring](https://bg3.wiki/wiki/Shifting%20Corpus%20Ring)
-- ::item_uncommon:: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation%20Ring)
+- ::item_uncommon:: [⭐Coruscation Ring⭐](https://bg3.wiki/wiki/Coruscation%20Ring)
 - ::item_uncommon:: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst%20Ring)
 - Talk to the inhabitants of [the Inn](https://bg3.wiki/wiki/Last_Light_Inn)
   - Make sure to speak with a pair playing chess ([a tiefling child](https://bg3.wiki/wiki/Mol) and [a familiar opponent](https://bg3.wiki/wiki/Raphael))
@@ -536,41 +539,41 @@
   - She can ber persuaded to provide the party with some camp supplies
   - ::item_veryrare:: [Incandescent Staff](https://bg3.wiki/wiki/Incandescent%20Staff)
   - ::item_veryrare:: [Shield of Devotion](https://bg3.wiki/wiki/Shield%20of%20Devotion)
-  - ::item_rare:: [Amulet of the Harpers](https://bg3.wiki/wiki/Amulet%20of%20the%20Harpers)
+  - ::item_rare:: [⭐Amulet of the Harpers⭐](https://bg3.wiki/wiki/Amulet%20of%20the%20Harpers)
   - ::item_rare:: [Barkskin Armour](https://bg3.wiki/wiki/Barkskin%20Armour)
   - ::item_rare:: [Cindersnap Gloves](https://bg3.wiki/wiki/Cindersnap%20Gloves)
   - ::item_rare:: [Defender Greataxe](https://bg3.wiki/wiki/Defender%20Greataxe)
-  - ::item_rare:: [Gloves of the Balanced Hands](https://bg3.wiki/wiki/Gloves%20of%20the%20Balanced%20Hands)
+  - ::item_rare:: [⭐Gloves of the Balanced Hands⭐](https://bg3.wiki/wiki/Gloves%20of%20the%20Balanced%20Hands)
   - ::item_rare:: [Hat of Uninhibited Kushigo](https://bg3.wiki/wiki/Hat%20of%20Uninhibited%20Kushigo)
   - ::item_rare:: [Obsidian Laced Robe](https://bg3.wiki/wiki/Obsidian%20Laced%20Robe)
   - ::item_rare:: [Shadeclinger Armour](https://bg3.wiki/wiki/Shadeclinger%20Armour)
   - ::item_rare:: [The Mighty Cloth](https://bg3.wiki/wiki/The%20Mighty%20Cloth)
   - ::item_rare:: [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti%20Scale%20Mail)
-  - ::item_uncommon:: [Cloak of Protection](https://bg3.wiki/wiki/Cloak%20of%20Protection)
+  - ::item_uncommon:: [⭐Cloak of Protection⭐](https://bg3.wiki/wiki/Cloak%20of%20Protection)
 - [Dammon](https://bg3.wiki/wiki/Dammon) offers merchant services
   - Give him what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
   - After helping Karlach, he can create some armor if given three samples of [Infernal Iron](https://bg3.wiki/wiki/Infernal_Iron), or a single sample of [Infernal Alloy](https://bg3.wiki/wiki/Infernal_Alloy) obtained in [Grymforge](https://bg3.wiki/wiki/Grymforge)
-    - ::item_rare:: [Flawed Helldusk Armour](https://bg3.wiki/wiki/Flawed%20Helldusk%20Armour)
-    - ::item_rare:: [Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed%20Helldusk%20Gloves)
+    - ::item_rare:: [Flawed ⭐Helldusk Armour⭐](https://bg3.wiki/wiki/Flawed%20Helldusk%20Armour)
+    - ::item_rare:: [⭐Flawed Helldusk Gloves⭐](https://bg3.wiki/wiki/Flawed%20Helldusk%20Gloves)
     - ::item_rare:: [Flawed Helldusk Helmet](https://bg3.wiki/wiki/Flawed%20Helldusk%20Helmet)
   - He'll also give you one [Orthon Explosive](https://bg3.wiki/wiki/Orthon_Explosive) for each [Devilfoil Mask](https://bg3.wiki/wiki/Devilfoil_Mask) you bring him
   - ::item_veryrare:: [Sword of Life Stealing](https://bg3.wiki/wiki/Sword%20of%20Life%20Stealing)
   - ::item_rare:: [Charge-Bound Warhammer](https://bg3.wiki/wiki/Charge-Bound%20Warhammer)
-  - ::item_rare:: [Darkfire Shortbow](https://bg3.wiki/wiki/Darkfire%20Shortbow)
+  - ::item_rare:: [⭐Darkfire Shortbow⭐](https://bg3.wiki/wiki/Darkfire%20Shortbow)
   - ::item_rare:: [Harmonium Halberd](https://bg3.wiki/wiki/Harmonium%20Halberd)
   - ::item_rare:: [Swordmaster Gloves](https://bg3.wiki/wiki/Swordmaster%20Gloves)
   - ::item_rare:: [Sword of Clutching Umbra](https://bg3.wiki/wiki/Sword%20of%20Clutching%20Umbra)
   - ::item_rare:: [Thermodynamo Axe](https://bg3.wiki/wiki/Thermodynamo%20Axe)
   - ::item_rare:: [Thorn Blade](https://bg3.wiki/wiki/Thorn%20Blade)
 - If [Rolan](https://bg3.wiki/wiki/Rolan) was convinced to stay in the Grove in Act 1, [Mattis](https://bg3.wiki/wiki/Mattis) offers merchant services
-  - ::item_rare:: [Evasive Shoes](https://bg3.wiki/wiki/Evasive%20Shoes)
-  - ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
+  - ::item_rare:: [⭐Evasive Shoes⭐](https://bg3.wiki/wiki/Evasive%20Shoes)
+  - ::item_uncommon:: [⭐Cloak of Cunning Brume⭐](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
 - If [rescued in Act 1](https://bg3.wiki/wiki/Rescue_the_Gnome), [Barcus Wroot](https://bg3.wiki/wiki/Barcus_Wroot) offers merchant services
   - ::item_rare:: [Acrobat Shoes](https://bg3.wiki/wiki/Acrobat%20Shoes)
-  - ::item_rare:: [Gloves of the Automaton](https://bg3.wiki/wiki/Gloves%20of%20the%20Automaton)
+  - ::item_rare:: [⭐Gloves of the Automaton⭐](https://bg3.wiki/wiki/Gloves%20of%20the%20Automaton)
   - ::item_uncommon:: [Ring of Geniality](https://bg3.wiki/wiki/Ring%20of%20Geniality)
 - Exterminate some [scary bugs](https://bg3.wiki/wiki/Meenlock)
-  - ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
+  - ::item_uncommon:: [⭐Covert Cowl⭐](https://bg3.wiki/wiki/Covert%20Cowl)
 # Moonrise Towers
 - ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux%20Amulet)
@@ -581,7 +584,7 @@
 - ::item_uncommon:: [Argument Solver](https://bg3.wiki/wiki/Argument%20Solver)
 - ::item_uncommon:: [Browbeaten Circlet](https://bg3.wiki/wiki/Browbeaten%20Circlet)
 - ::item_uncommon:: [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak%20of%20Elemental%20Absorption)
-- ::item_uncommon:: [Myrkulite Scourge](https://bg3.wiki/wiki/Myrkulite%20Scourge)
+- ::item_uncommon:: [⭐Myrkulite Scourge⭐](https://bg3.wiki/wiki/Myrkulite%20Scourge)
 - ::item_uncommon:: [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder%20Amulet)
 - Get some more tadpoles
   - Convince the guard on the docks to let you investigate the shipping crates
@@ -590,12 +593,12 @@
 - ::task:: [Lann Tarv](https://bg3.wiki/wiki/Lann_Tarv) offers merchant services.
   - If [Karlach](https://bg3.wiki/wiki/Karlach) is in the party, you can listen to some sad stories to get three [Soul Coins](https://bg3.wiki/wiki/Soul_Coin)
   - ::missable:: Impress him or get [Zrell's] approval to access his secret stock
-  - ::item_veryrare:: [Halberd of Vigilance](https://bg3.wiki/wiki/Halberd%20of%20Vigilance)
+  - ::item_veryrare:: [⭐Halberd of Vigilance⭐](https://bg3.wiki/wiki/Halberd%20of%20Vigilance)
   - ::item_rare:: [Bigboy's Chew Toy](https://bg3.wiki/wiki/Bigboy's%20Chew%20Toy)
   - ::item_rare:: [Enraging Heart Garb](https://bg3.wiki/wiki/Enraging%20Heart%20Garb)
-  - ::item_rare:: [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker%20Helm)
+  - ::item_rare:: [⭐Fistbreaker Helm⭐](https://bg3.wiki/wiki/Fistbreaker%20Helm)
   - ::item_rare:: [Gloves of The Duellist](https://bg3.wiki/wiki/Gloves%20of%20The%20Duellist)
-  - ::item_rare:: [Sentinel Shield](https://bg3.wiki/wiki/Sentinel%20Shield)
+  - ::item_rare:: [⭐Sentinel Shield⭐](https://bg3.wiki/wiki/Sentinel%20Shield)
   - ::item_rare:: [Slicing Shortsword](https://bg3.wiki/wiki/Slicing%20Shortsword)
   - ::item_rare:: [Dwarven Splintmail](https://bg3.wiki/wiki/Dwarven%20Splintmail) (Secret Stock)
   - ::item_rare:: [Gauntlets of Surging Accuracy](https://bg3.wiki/wiki/Gauntlets%20of%20Surging%20Accuracy) (Secret Stock)
@@ -605,22 +608,22 @@
   - Get [a specially-brewed potion](https://bg3.wiki/wiki/Araj_Oblodra#Blood-draw_elixirs) from each of your companions blood (there are truly no downsides to this event)
   - ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
   - ::item_rare:: [Boots of Arcane Bolstering](https://bg3.wiki/wiki/Boots%20of%20Arcane%20Bolstering)
-  - ::item_rare:: [Ring of Free Action](https://bg3.wiki/wiki/Ring%20of%20Free%20Action)
-  - ::item_rare:: [Risky Ring](https://bg3.wiki/wiki/Risky%20Ring)
+  - ::item_rare:: [⭐Ring of Free Action⭐](https://bg3.wiki/wiki/Ring%20of%20Free%20Action)
+  - ::item_rare:: [⭐Risky Ring⭐](https://bg3.wiki/wiki/Risky%20Ring)
   - ::item_rare:: [Robe of Exquisite Focus](https://bg3.wiki/wiki/Robe%20of%20Exquisite%20Focus)
-  - ::item_rare:: [The Graceful Cloth](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#2)
+  - ::item_rare:: [⭐The Graceful Cloth⭐](https://bg3.wiki/wiki/The%20Graceful%20Cloth) (#2)
   - ::item_uncommon:: [Hat of Storm Scion's Power](https://bg3.wiki/wiki/Hat%20of%20Storm%20Scion's%20Power)
-  - ::item_uncommon:: [Thunderskin Cloak](https://bg3.wiki/wiki/Thunderskin%20Cloak)
+  - ::item_uncommon:: [⭐Thunderskin Cloak⭐](https://bg3.wiki/wiki/Thunderskin%20Cloak)
 - ::task:: [Roah Moonglow](https://bg3.wiki/wiki/Roah_Moonglow) offers merchant services
   - ::item_veryrare:: [Sharpened Snare Cuirass](https://bg3.wiki/wiki/Sharpened%20Snare%20Cuirass)
   - ::item_rare:: [Armour of Devotion](https://bg3.wiki/wiki/Armour%20of%20Devotion)
-  - ::item_rare:: [Drakethroat Glaive](https://bg3.wiki/wiki/Drakethroat%20Glaive)
+  - ::item_rare:: [⭐Drakethroat Glaive⭐](https://bg3.wiki/wiki/Drakethroat%20Glaive)
   - ::item_rare:: [Gloves of Crushing](https://bg3.wiki/wiki/Gloves%20of%20Crushing)
-  - ::item_rare:: [Ne'er Misser](https://bg3.wiki/wiki/Ne'er%20Misser)
+  - ::item_rare:: [⭐Ne'er Misser⭐](https://bg3.wiki/wiki/Ne'er%20Misser)
   - ::item_uncommon:: [Hunter's Dagger](https://bg3.wiki/wiki/Hunter's%20Dagger) (#2)
-  - ::item_uncommon:: [Marksmanship Hat](https://bg3.wiki/wiki/Marksmanship%20Hat)
+  - ::item_uncommon:: [⭐Marksmanship Hat⭐](https://bg3.wiki/wiki/Marksmanship%20Hat)
   - ::item_uncommon:: [Poisoner's Ring](https://bg3.wiki/wiki/Poisoner's%20Ring)
-  - ::item_uncommon:: [Ring of Spiteful Thunder](https://bg3.wiki/wiki/Ring%20of%20Spiteful%20Thunder)
+  - ::item_uncommon:: [⭐Ring of Spiteful Thunder⭐](https://bg3.wiki/wiki/Ring%20of%20Spiteful%20Thunder)
 - Visit [the kitchen](https://bg3.wiki/wiki/Moonrise_Towers#Kitchen)
   - Convince [the gnolls](https://bg3.wiki/wiki/%27Barnabus%27) to work with you
   - You can optionally harvest [their captor's](https://bg3.wiki/wiki/Linsella) parasite (in the kitchen)
@@ -638,8 +641,8 @@
 # Reithwin Town
 - ::item_veryrare:: [Hr'a'cknir Bracers](https://bg3.wiki/wiki/Hr'a'cknir%20Bracers)
 - ::item_rare:: [Psionic Ward Armour](https://bg3.wiki/wiki/Psionic%20Ward%20Armour)
-- ::item_uncommon:: [Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet%20of%20Arcane%20Acuity)
-- ::item_uncommon:: [Ritual Dagger of Shar](https://bg3.wiki/wiki/Ritual%20Dagger%20of%20Shar)
+- ::item_uncommon:: [⭐Helmet of Arcane Acuity⭐](https://bg3.wiki/wiki/Helmet%20of%20Arcane%20Acuity)
+- ::item_uncommon:: [⭐Ritual Dagger⭐ of Shar](https://bg3.wiki/wiki/Ritual%20Dagger%20of%20Shar)
 - ::item_uncommon:: [Shadow Blade Ring](https://bg3.wiki/wiki/Shadow%20Blade%20Ring)
 - Find [a young tiefling](https://bg3.wiki/wiki/Arabella#Act_Two) that needs help 
 - Interact with the center statue puzzle to [open a pathway down](https://bg3.wiki/wiki/Sharran_Sanctuary)
@@ -655,16 +658,16 @@
 - ::item_rare:: [Icebite Robe](https://bg3.wiki/wiki/Icebite%20Robe)
 - ::item_rare:: [Poisoner's Gloves](https://bg3.wiki/wiki/Poisoner's%20Gloves)
 - ::item_rare:: [Strange Tendril Amulet](https://bg3.wiki/wiki/Strange%20Tendril%20Amulet)
-- ::item_rare:: [Surgeon's Subjugation Amulet](https://bg3.wiki/wiki/Surgeon's%20Subjugation%20Amulet)
+- ::item_rare:: [⭐Surgeon's Subjugation Amulet⭐](https://bg3.wiki/wiki/Surgeon's%20Subjugation%20Amulet)
 - ::item_rare:: [True Love's Caress](https://bg3.wiki/wiki/True%20Love's%20Caress)
 - ::item_rare:: [True Love's Embrace](https://bg3.wiki/wiki/True%20Love's%20Embrace)
 - ::item_uncommon:: [Artificial Leech (U1)](https://bg3.wiki/wiki/Artificial%20Leech%20(U1))
-- ::item_uncommon:: [Assassin's Shortsword](https://bg3.wiki/wiki/Assassin's%20Shortsword)
+- ::item_uncommon:: [⭐Assassin's Shortsword⭐](https://bg3.wiki/wiki/Assassin's%20Shortsword)
 - ::item_uncommon:: [Bided Time](https://bg3.wiki/wiki/Bided%20Time)
 - ::item_uncommon:: [Bonesaw (U1)](https://bg3.wiki/wiki/Bonesaw%20(U1))
-- ::item_uncommon:: [Eversight Ring](https://bg3.wiki/wiki/Eversight%20Ring)
+- ::item_uncommon:: [⭐Eversight Ring⭐](https://bg3.wiki/wiki/Eversight%20Ring)
 - ::item_uncommon:: [Firzu's Ring of Trading](https://bg3.wiki/wiki/Firzu's%20Ring%20of%20Trading)
-- ::item_uncommon:: [Fleshmelter Cloak](https://bg3.wiki/wiki/Fleshmelter%20Cloak)
+- ::item_uncommon:: [⭐Fleshmelter Cloak⭐](https://bg3.wiki/wiki/Fleshmelter%20Cloak)
 - ::item_uncommon:: [Lightning Jabber](https://bg3.wiki/wiki/Lightning%20Jabber)
 - ::item_uncommon:: [Protective Plate](https://bg3.wiki/wiki/Protective%20Plate)
 - ::item_uncommon:: [Shar's Temptation](https://bg3.wiki/wiki/Shar's%20Temptation)
@@ -699,18 +702,18 @@
 # Grand Mausoleum
 - ::item_uncommon:: [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious%20Cloak)
 # Gauntlet of Shar
-- ::item_veryrare:: [Dark Justiciar Helmet](https://bg3.wiki/wiki/Dark%20Justiciar%20Helmet)
+- ::item_veryrare:: [⭐Dark Justiciar Helmet⭐](https://bg3.wiki/wiki/Dark%20Justiciar%20Helmet)
 - ::item_veryrare:: [Justiciar's Scimitar](https://bg3.wiki/wiki/Justiciar's%20Scimitar)
-- ::item_veryrare:: [Killer's Sweetheart](https://bg3.wiki/wiki/Killer's%20Sweetheart)
+- ::item_veryrare:: [⭐Killer's Sweetheart⭐](https://bg3.wiki/wiki/Killer's%20Sweetheart)
 - ::item_rare:: [Boots of Brilliance](https://bg3.wiki/wiki/Boots%20of%20Brilliance)
 - ::item_rare:: [Dark Justiciar Boots](https://bg3.wiki/wiki/Dark%20Justiciar%20Boots)
-- ::item_rare:: [Dark Justiciar Gauntlets (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(R1))
-- ::item_rare:: [Dark Justiciar Half-Plate (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(R1))
+- ::item_rare:: [⭐Dark Justiciar Gauntlets⭐ (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(R1))
+- ::item_rare:: [⭐Dark Justiciar Half-Plate⭐ (R1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(R1))
 - ::item_rare:: [Justiciar's Greatshield](https://bg3.wiki/wiki/Justiciar's%20Greatshield)
 - ::item_rare:: [Least Expected](https://bg3.wiki/wiki/Least%20Expected)
 - ::item_rare:: [Spear of Night](https://bg3.wiki/wiki/Spear%20of%20Night)
-- ::item_uncommon:: [Callous Glow Ring](https://bg3.wiki/wiki/Callous%20Glow%20Ring)
-- ::item_uncommon:: [Dark Justiciar Gauntlets (U1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(U1))
+- ::item_uncommon:: [⭐Callous Glow Ring⭐](https://bg3.wiki/wiki/Callous%20Glow%20Ring)
+- ::item_uncommon:: [⭐Dark Justiciar Gauntlets⭐ (U1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Gauntlets%20(U1))
 - ::item_common:: [Shortsword (Yurgir)](https://bg3.wiki/wiki/Shortsword%20(Yurgir))
 - Check out the path to the right of the entryway statue for treasure "hidden in darkness"
 - Kill [Balthazar](https://bg3.wiki/wiki/Balthazar)
@@ -718,7 +721,7 @@
   - ::item_rare:: [Circle of Bones](https://bg3.wiki/wiki/Circle%20of%20Bones)
 - Deal with [a certain devil's nemesis](https://bg3.wiki/wiki/Kill_Raphael%27s_Old_Enemy)
   - Take the [Umbral Gem](https://bg3.wiki/wiki/Umbral_Gem)
-  - ::item_veryrare:: [Hellfire Hand Crossbow](https://bg3.wiki/wiki/Hellfire%20Hand%20Crossbow)
+  - ::item_veryrare:: [⭐Hellfire Hand Crossbow⭐](https://bg3.wiki/wiki/Hellfire%20Hand%20Crossbow)
 - Find the [accursed library](https://bg3.wiki/wiki/Gauntlet_of_Shar#The_Silent_Library)
   - Claim [an artifact](https://bg3.wiki/wiki/Spear_of_Night) for Shadowheart by putting an item on the correct pedestal
 - Complete the trials for three more [Umbral Gems](https://bg3.wiki/wiki/Umbral_Gem)
@@ -726,9 +729,9 @@
   - [Self-Same Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Self-Same_Trial)
   - [Faith-Leap Trial](https://bg3.wiki/wiki/Gauntlet_of_Shar#Faith-Step_Trial)
 # Shadowfell
-- ::item_legendary:: [Shar's Spear of Evening](https://bg3.wiki/wiki/Shar's%20Spear%20of%20Evening)
-- ::item_veryrare:: [Dark Justiciar Half-Plate (VR1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(VR1))
-- ::item_rare:: [Moonlight Glaive](https://bg3.wiki/wiki/Moonlight%20Glaive)
+- ::item_legendary:: [⭐Shar's Spear of Evening⭐](https://bg3.wiki/wiki/Shar's%20Spear%20of%20Evening)
+- ::item_veryrare:: [⭐Dark Justiciar Half-Plate⭐ (VR1)](https://bg3.wiki/wiki/Dark%20Justiciar%20Half-Plate%20(VR1))
+- ::item_rare:: [⭐Moonlight Glaive⭐](https://bg3.wiki/wiki/Moonlight%20Glaive)
 # Moonrise Towers (Revisited)
 - Visit [the Inn](https://bg3.wiki/wiki/Last_Light_Inn) and gather forces
   - Talk to [the Selunite](https://bg3.wiki/wiki/Isobel)
@@ -741,7 +744,7 @@
 - ::item_veryrare:: [Infernal Rapier](https://bg3.wiki/wiki/Infernal%20Rapier)
 - ::item_veryrare:: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper's%20Embrace)
 - ::item_rare:: [Circlet of Mental Anguish](https://bg3.wiki/wiki/Circlet%20of%20Mental%20Anguish)
-- ::item_rare:: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric's%20Shield)
+- ::item_rare:: [⭐Ketheric's Shield⭐](https://bg3.wiki/wiki/Ketheric's%20Shield)
 - ::item_rare:: [Ketheric's Warhammer](https://bg3.wiki/wiki/Ketheric's%20Warhammer)
 - ::item_uncommon:: [Braindrain Gloves](https://bg3.wiki/wiki/Braindrain%20Gloves)
 - Jump into [one of the towers](https://bg3.wiki/wiki/Mind_Flayer_Colony) to enter an enemy base
@@ -783,14 +786,14 @@
   - ::item_veryrare:: [Sethan](https://bg3.wiki/wiki/Sethan) (Special Stock)
   - ::item_veryrare:: [Nymph Cloak](https://bg3.wiki/wiki/Nymph%20Cloak) (Special Stock)
   - ::item_veryrare:: [Robe of Supreme Defences](https://bg3.wiki/wiki/Robe%20of%20Supreme%20Defences) (Special Stock)
-  - ::item_uncommon:: [Hellrider Longbow](https://bg3.wiki/wiki/Hellrider%20Longbow)
+  - ::item_uncommon:: [⭐Hellrider Longbow⭐](https://bg3.wiki/wiki/Hellrider%20Longbow)
 - If you're not a monster, speak to an [extremely good boy](https://bg3.wiki/wiki/Biscotti) and let him know it
 
 
 # Rivington - Requisitioned Barn
 - Talk your way into a crime scene to learn about more [suspicious toys](https://bg3.wiki/wiki/Investigate%20the%20Suspicious%20Toys)
 - ::missable:: If you helped it in Acts 1 and 2, speak to the [odd bovine](https://bg3.wiki/wiki/Strange_Ox) nearby to [help it get into the city](https://bg3.wiki/wiki/Help%20the%20Devilish%20Ox). This must be done before progressing to the Lower City
-  - ::item_uncommon:: [Shapeshifter's Boon Ring](https://bg3.wiki/wiki/Shapeshifter's%20Boon%20Ring) Recevied for helping the ox
+  - ::item_uncommon:: [⭐Shapeshifter's Boon Ring⭐](https://bg3.wiki/wiki/Shapeshifter's%20Boon%20Ring) Recevied for helping the ox
   - ::item_uncommon:: [Hat of Fire Acuity](https://bg3.wiki/wiki/Hat%20of%20Fire%20Acuity) Recevied for killing the ox
 - [Mattis](https://bg3.wiki/wiki/Mattis) offers merchant services
   - ::item_veryrare:: [Corvid Token](https://bg3.wiki/wiki/Corvid%20Token)
@@ -812,14 +815,14 @@
 # Rivington - The Rivington General
 - [Exxvikyap](https://bg3.wiki/wiki/Exxvikyap) offers merchant services
   - ::item_veryrare:: [The Dancing Breeze](https://bg3.wiki/wiki/The%20Dancing%20Breeze)
-  - ::item_veryrare:: [Swires' Sledboard](https://bg3.wiki/wiki/Swires'%20Sledboard)
-  - ::item_veryrare:: [Bonespike Garb](https://bg3.wiki/wiki/Bonespike%20Garb)
-  - ::item_rare:: [Ambusher](https://bg3.wiki/wiki/Ambusher)
+  - ::item_veryrare:: [⭐Swires' Sledboard⭐](https://bg3.wiki/wiki/Swires'%20Sledboard)
+  - ::item_veryrare:: [⭐Bonespike Garb⭐](https://bg3.wiki/wiki/Bonespike%20Garb)
+  - ::item_rare:: [⭐Ambusher⭐](https://bg3.wiki/wiki/⭐Ambusher⭐)
   - ::item_rare:: [Elven Chain](https://bg3.wiki/wiki/Elven%20Chain)
   - ::item_rare:: [Stalker Gloves](https://bg3.wiki/wiki/Stalker%20Gloves)
 - Speak to some [familiar terrorists](https://bg3.wiki/wiki/Clan_Ironhand) in [the basement](https://bg3.wiki/wiki/Angleiron%27s_Cellar), accessible via a cave entrance near the beach
   - [Bumpnagel](https://bg3.wiki/wiki/Bumpnagel) offers merchant services
-    - ::item_rare:: [Martial Exertion Gloves](https://bg3.wiki/wiki/Martial%20Exertion%20Gloves)
+    - ::item_rare:: [⭐Martial Exertion Gloves⭐](https://bg3.wiki/wiki/Martial%20Exertion%20Gloves)
     - ::item_rare:: [Nimblefinger Gloves](https://bg3.wiki/wiki/Nimblefinger%20Gloves)
     - ::item_rare:: [Thunderpalm Strikers](https://bg3.wiki/wiki/Thunderpalm%20Strikers)
 
@@ -844,8 +847,8 @@
   - Pickpocket his [ring](https://bg3.wiki/wiki/Djinni_Ring) to hit the jackpot win an all-expenses paid trip to [an exotic land](https://bg3.wiki/wiki/Jungle)
     - ::missable:: You cannot return to [this area](https://bg3.wiki/wiki/Jungle), so be sure to grab all loot here while you can
     - ::item_uncommon:: [Djinni Ring](https://bg3.wiki/wiki/Djinni%20Ring)
-    - ::item_legendary:: [Nyrulna](https://bg3.wiki/wiki/Nyrulna)
-    - ::item_rare:: [Band of the Mystic Scoundrel](https://bg3.wiki/wiki/Band%20of%20the%20Mystic%20Scoundrel)
+    - ::item_legendary:: [⭐Nyrulna⭐](https://bg3.wiki/wiki/⭐Nyrulna⭐)
+    - ::item_rare:: [⭐Band of the Mystic Scoundrel⭐](https://bg3.wiki/wiki/Band%20of%20the%20Mystic%20Scoundrel)
 - [Popper](https://bg3.wiki/wiki/Popper) offers a selection of ethically sourced goods
   - [An important body part](https://bg3.wiki/wiki/Clown%27s_Severed_Hand) can be found nearby
   - ::item_rare:: [Dark Displacement Gloves](https://bg3.wiki/wiki/Dark%20Displacement%20Gloves)
@@ -906,8 +909,8 @@
 - [Entharl Danthelon](https://bg3.wiki/wiki/Entharl_Danthelon) offers merchant services
   - ::item_veryrare:: [Blightbringer](https://bg3.wiki/wiki/Blightbringer)
   - ::item_veryrare:: [Gauntlets of the Warmaster](https://bg3.wiki/wiki/Gauntlets%20of%20the%20Warmaster)
-  - ::item_veryrare:: [Horns of the Berserker](https://bg3.wiki/wiki/Horns%20of%20the%20Berserker)
-  - ::item_rare:: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak%20of%20Displacement)
+  - ::item_veryrare:: [⭐Horns of the Berserker⭐](https://bg3.wiki/wiki/Horns%20of%20the%20Berserker)
+  - ::item_rare:: [⭐Cloak of Displacement⭐](https://bg3.wiki/wiki/Cloak%20of%20Displacement)
   - ::item_rare:: [Garb of the Land and Sky](https://bg3.wiki/wiki/Garb%20of%20the%20Land%20and%20Sky)
   - ::item_rare:: [Harmonic Dueller](https://bg3.wiki/wiki/Harmonic%20Dueller)
   - ::item_rare:: [Snow-Dusted Monastery Gloves](https://bg3.wiki/wiki/Snow-Dusted%20Monastery%20Gloves)
@@ -916,10 +919,10 @@
 
 # Wyrm's Rock Fortress
 - ::item_story:: [Counting House Safe n°5 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B05_Key)
-- ::item_veryrare:: [Fabricated Arbalest](https://bg3.wiki/wiki/Fabricated%20Arbalest)  Wyrm's Rock Fortress
+- ::item_veryrare:: [⭐Fabricated Arbalest⭐](https://bg3.wiki/wiki/Fabricated%20Arbalest)  Wyrm's Rock Fortress
 - ::item_veryrare:: [Flame Enamelled Armour](https://bg3.wiki/wiki/Flame%20Enamelled%20Armour)  Wyrm's Rock Fortress
 - ::item_veryrare:: [Gauntlet of the Tyrant](https://bg3.wiki/wiki/Gauntlet%20of%20the%20Tyrant)  Wyrm's Rock Fortress
-- ::item_veryrare:: [Helldusk Boots](https://bg3.wiki/wiki/Helldusk%20Boots)  Wyrm's Rock Fortress
+- ::item_veryrare:: [⭐Helldusk Boots⭐](https://bg3.wiki/wiki/Helldusk%20Boots)  Wyrm's Rock Fortress
 - ::item_rare:: [Cloth of Authority](https://bg3.wiki/wiki/Cloth%20of%20Authority)  Wyrm's Rock Fortress
 - ::item_rare:: [Infernal Spear](https://bg3.wiki/wiki/Infernal%20Spear)  Wyrm's Rock Fortress
 - ::item_uncommon:: [Tyrannical Jackboots](https://bg3.wiki/wiki/Tyrannical%20Jackboots)  Wyrm's Rock Fortress
@@ -933,8 +936,8 @@
 
 
 # Wyrm's Rock Fortress - The Dragon's Sanctum
-- ::item_legendary:: [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran's%20Giantslayer)  The Dragon's Sanctum
-- ::item_legendary:: [Helm of Balduran](https://bg3.wiki/wiki/Helm%20of%20Balduran)  The Dragon's Sanctum
+- ::item_legendary:: [⭐Balduran's Giantslayer⭐](https://bg3.wiki/wiki/Balduran's%20Giantslayer)  The Dragon's Sanctum
+- ::item_legendary:: [⭐Helm of Balduran⭐](https://bg3.wiki/wiki/Helm%20of%20Balduran)  The Dragon's Sanctum
 
 
 # Lower City
@@ -977,6 +980,7 @@
 
 # Lower City - Highberry's Home
 - ::item_rare:: [Spaceshunt Boots](https://bg3.wiki/wiki/Spaceshunt%20Boots) Worn by [an assassin](https://bg3.wiki/wiki/Dolor) if you can manage to kill him
+- ::item_rare:: [⭐Dolor Amarus⭐](https://bg3.wiki/wiki/Dolor%20Amarus)
 - [Tara](https://bg3.wiki/wiki/Tara) can be found on the roof with after speaking to her atop the [Devil's Fee](https://bg3.wiki/wiki/Devil%27s_Fee)
   - ::item_rare:: [Slinging Shoes](https://bg3.wiki/wiki/Slinging%20Shoes)
 
@@ -987,7 +991,7 @@
 
 
 # Lower City - The Devil's Fee
-- ::item_veryrare:: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask%20of%20Soul%20Perception)
+- ::item_veryrare:: [⭐Mask of Soul Perception⭐](https://bg3.wiki/wiki/Mask%20of%20Soul%20Perception)
 - [Tara](https://bg3.wiki/wiki/Tara) can be found on the roof with after speaking to her atop the [Open Hand Temple](https://bg3.wiki/wiki/Open_Hand_Temple)
   - ::item_rare:: [Hat of the Sharp Caster](https://bg3.wiki/wiki/Hat%20of%20the%20Sharp%20Caster)
 - [Helsik](https://bg3.wiki/wiki/Helsik) offers merchant services
@@ -997,7 +1001,7 @@
   - ::item_veryrare:: [Shapeshifter Hat](https://bg3.wiki/wiki/Shapeshifter%20Hat) (Special Stock)
   - ::item_rare:: [Caitiff Staff](https://bg3.wiki/wiki/Caitiff%20Staff) (Special Stock)
   - ::item_rare:: [Gibus of the Worshipful Servant](https://bg3.wiki/wiki/Gibus%20of%20the%20Worshipful%20Servant) Only for sale to Wyll, or given to the Dark Urge for free (need to confirm)
-  - ::item_rare:: [Hellbeard Halberd](https://bg3.wiki/wiki/Hellbeard%20Halberd) (Special Stock)
+  - ::item_rare:: [⭐Hellbeard Halberd⭐](https://bg3.wiki/wiki/Hellbeard%20Halberd) (Special Stock)
   - ::item_rare:: [Spellseeking Gloves](https://bg3.wiki/wiki/Spellseeking%20Gloves) (Special Stock)
 - Acquire the knowledge to [literally go to hell](https://bg3.wiki/wiki/House_of_Hope) by convincing or paying Helsik for it
   - Alternatively, you can obtain the information by promising to [steal a really nice pair of gauntlets](https://bg3.wiki/wiki/Acquire_the_Gauntlets_for_Helsik) for her
@@ -1006,13 +1010,13 @@
 # House of Hope
 - ::task:: Act 3 - [Save Hope](https://bg3.wiki/wiki/Save%20Hope)
 - ::item_legendary:: [Orphic Hammer](https://bg3.wiki/wiki/Orphic%20Hammer)
-- ::item_legendary:: [Devotee's Mace](https://bg3.wiki/wiki/Devotee's%20Mace)
-- ::item_veryrare:: [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet%20of%20Greater%20Health)
+- ::item_legendary:: [⭐Devotee's Mace⭐](https://bg3.wiki/wiki/Devotee's%20Mace)
+- ::item_veryrare:: [⭐Amulet of Greater Health⭐](https://bg3.wiki/wiki/Amulet%20of%20Greater%20Health)
 - ::item_veryrare:: [Burnished Ring](https://bg3.wiki/wiki/Burnished%20Ring)
-- ::item_veryrare:: [Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets%20of%20Hill%20Giant%20Strength)
+- ::item_veryrare:: [⭐Gauntlets of Hill Giant Strength⭐](https://bg3.wiki/wiki/Gauntlets%20of%20Hill%20Giant%20Strength)
 - ::item_veryrare:: [Gloves of Soul Catching](https://bg3.wiki/wiki/Gloves%20of%20Soul%20Catching)
-- ::item_veryrare:: [Helldusk Armour](https://bg3.wiki/wiki/Helldusk%20Armour)
-- ::item_veryrare:: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk%20Gloves)
+- ::item_veryrare:: [⭐Helldusk Armour⭐](https://bg3.wiki/wiki/Helldusk%20Armour)
+- ::item_veryrare:: [⭐Helldusk Gloves⭐](https://bg3.wiki/wiki/Helldusk%20Gloves)
 - ::item_veryrare:: [Helldusk Helmet](https://bg3.wiki/wiki/Helldusk%20Helmet)
 - ::item_veryrare:: [Shield (VR1)](https://bg3.wiki/wiki/Shield%20(VR1))
 - ::item_veryrare:: [Staff of Spellpower](https://bg3.wiki/wiki/Staff%20of%20Spellpower)
@@ -1025,9 +1029,9 @@
 - ::item_rare:: [Longsword +2](https://bg3.wiki/wiki/Longsword%20+2)
 - ::item_rare:: [Mace +2](https://bg3.wiki/wiki/Mace%20+2)
 - If kept alive through acts 1 and 2, [Dammon](https://bg3.wiki/wiki/Dammon) offers merchant services
-  - ::item_veryrare:: [Armour of Persistence](https://bg3.wiki/wiki/Armour%20of%20Persistence)
-  - ::item_veryrare:: [Boots of Persistence](https://bg3.wiki/wiki/Boots%20of%20Persistence)
-  - ::item_veryrare:: [Legacy of the Masters](https://bg3.wiki/wiki/Legacy%20of%20the%20Masters)
+  - ::item_veryrare:: [⭐Armour of Persistence⭐](https://bg3.wiki/wiki/Armour%20of%20Persistence)
+  - ::item_veryrare:: [⭐Boots of Persistence⭐](https://bg3.wiki/wiki/Boots%20of%20Persistence)
+  - ::item_veryrare:: [⭐Legacy of the Masters⭐](https://bg3.wiki/wiki/Legacy%20of%20the%20Masters)
   - ::item_rare:: [Unwanted Masterwork Scalemail](https://bg3.wiki/wiki/Unwanted%20Masterwork%20Scalemail)
   
 
@@ -1038,31 +1042,31 @@
 
 
 # Lower City - Murder Tribunal
-- ::item_story:: [Amulet of Bhaal](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
+- ::item_story:: [⭐Amulet of Bhaal⭐](https://bg3.wiki/wiki/Amulet%20of%20Bhaal)
 - ::item_veryrare:: [Assassin of Bhaal Cowl](https://bg3.wiki/wiki/Assassin%20of%20Bhaal%20Cowl)
-- ::item_veryrare:: [Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist%20Armour)
+- ::item_veryrare:: [⭐Bhaalist Armour⭐](https://bg3.wiki/wiki/Bhaalist%20Armour)
 - ::item_veryrare:: [Bhaalist Gloves](https://bg3.wiki/wiki/Bhaalist%20Gloves)
 - ::item_veryrare:: [Blackguard's Plate](https://bg3.wiki/wiki/Blackguard's%20Plate)
-- ::item_veryrare:: [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok's%20Horned%20Helmet)
+- ::item_veryrare:: [⭐Sarevok's Horned Helmet⭐](https://bg3.wiki/wiki/Sarevok's%20Horned%20Helmet)
 - ::item_veryrare:: [Shield of the Undevout](https://bg3.wiki/wiki/Shield%20of%20the%20Undevout)
 - ::item_veryrare:: [Sword of Chaos](https://bg3.wiki/wiki/Sword%20of%20Chaos)
 - ::item_rare:: [Blackguard's Gauntlets](https://bg3.wiki/wiki/Blackguard's%20Gauntlets)
 - ::item_rare:: [Blackguard's Greaves](https://bg3.wiki/wiki/Blackguard's%20Greaves)
 - ::item_rare:: [Blackguard's Sword](https://bg3.wiki/wiki/Blackguard's%20Sword)
-- ::item_rare:: [Craterflesh Gloves](https://bg3.wiki/wiki/Craterflesh%20Gloves)
+- ::item_rare:: [⭐Craterflesh Gloves⭐](https://bg3.wiki/wiki/Craterflesh%20Gloves)
 - ::item_rare:: [Dread Iron Dagger](https://bg3.wiki/wiki/Dread%20Iron%20Dagger)
 - ::item_rare:: [Fleshrender](https://bg3.wiki/wiki/Fleshrender)
 - ::item_rare:: [Vicious Battleaxe](https://bg3.wiki/wiki/Vicious%20Battleaxe)
-- ::item_rare:: [Vicious Shortbow](https://bg3.wiki/wiki/Vicious%20Shortbow)
+- ::item_rare:: [⭐Vicious Shortbow⭐](https://bg3.wiki/wiki/Vicious%20Shortbow)
 
 
 # Lower City - Sorcerous Sundries
 - ::task:: Act 3 - [Search the Cellar](https://bg3.wiki/wiki/Search%20the%20Cellar) ends here w/ Tharcyite Codex?
 - If still alive, [Rolan](https://bg3.wiki/wiki/Rolan) offers merchant services. Otherwise [Lorroakan's Projection](https://bg3.wiki/wiki/Lorroakan%27s_Projection) will
-  - ::item_veryrare:: [Armour of Landfall](https://bg3.wiki/wiki/Armour%20of%20Landfall)
+  - ::item_veryrare:: [⭐Armour of Landfall⭐](https://bg3.wiki/wiki/Armour%20of%20Landfall)
   - ::item_veryrare:: [Birthright](https://bg3.wiki/wiki/Birthright)
   - ::item_veryrare:: [Quickspell Gloves](https://bg3.wiki/wiki/Quickspell%20Gloves)
-  - ::item_veryrare:: [Ring of Regeneration](https://bg3.wiki/wiki/Ring%20of%20Regeneration)
+  - ::item_veryrare:: [⭐Ring of Regeneration⭐](https://bg3.wiki/wiki/Ring%20of%20Regeneration)
   - ::item_veryrare:: [Vest of Soul Rejuvenation](https://bg3.wiki/wiki/Vest%20of%20Soul%20Rejuvenation)
   - ::item_rare:: [Harper Sacredstriker](https://bg3.wiki/wiki/Harper%20Sacredstriker)
 
@@ -1092,10 +1096,10 @@
 
 # Lower City - Stormshore Armoury
 - [Fytz the Firecracker](https://bg3.wiki/wiki/Fytz) offers merchant services
-  - ::item_veryrare:: [The Dead Shot](https://bg3.wiki/wiki/The%20Dead%20Shot)
+  - ::item_veryrare:: [⭐The Dead Shot⭐](https://bg3.wiki/wiki/The%20Dead%20Shot)
   - ::item_rare:: [Flail of Ages](https://bg3.wiki/wiki/Flail%20of%20Ages)
 - [Gloomy Fentonson](https://bg3.wiki/wiki/Gloomy_Fentonson) offers merchant services
-  - ::item_veryrare:: [Armour of Agility](https://bg3.wiki/wiki/Armour%20of%20Agility)
+  - ::item_veryrare:: [⭐Armour of Agility⭐](https://bg3.wiki/wiki/Armour%20of%20Agility)
 
 
 
@@ -1119,7 +1123,7 @@
 # Lower City - Szarr Palace
 - ::item_story:: [Counting House Safe n°1 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B01_Key)
 - ::item_story:: [Szarr Family Ring](https://bg3.wiki/wiki/Szarr_Family_Ring)
-- ::item_veryrare:: [Helmet of Grit](https://bg3.wiki/wiki/Helmet_of_Grit)
+- ::item_veryrare:: [⭐Helmet of Grit⭐](https://bg3.wiki/wiki/Helmet_of_Grit)
 
 
 # Lower City - Cazador's Dungeon
@@ -1133,10 +1137,10 @@
 
 # Lower City - The Blushing Mermaid
 - ::item_story:: [Counting House Vault n°1 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%B01_Key)
-- ::item_legendary:: [Duellist's Prerogative](https://bg3.wiki/wiki/Duellist's%20Prerogative)
+- ::item_legendary:: [⭐Duellist's Prerogative⭐](https://bg3.wiki/wiki/Duellist's%20Prerogative)
 - ::item_veryrare:: [Amulet of Windrider](https://bg3.wiki/wiki/Amulet%20of%20Windrider)
 - ::item_veryrare:: [Fey Semblance Amulet](https://bg3.wiki/wiki/Fey%20Semblance%20Amulet)
-- ::item_veryrare:: [Ring of Feywild Sparks](https://bg3.wiki/wiki/Ring%20of%20Feywild%20Sparks)
+- ::item_veryrare:: [⭐Ring of Feywild Sparks⭐](https://bg3.wiki/wiki/Ring%20of%20Feywild%20Sparks)
 - ::item_rare:: [Staff of Interruption](https://bg3.wiki/wiki/Staff%20of%20Interruption)
 - ::item_rare:: [Salty Scimitar(rrr)](https://bg3.wiki/wiki/Salty%20Scimitar(rrr))
 
@@ -1148,7 +1152,7 @@
 # Lower City - The Counting House
 - ::item_story:: [Counting House Safe n°4 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%B04_Key)
 - ::item_story:: [High Security Vault n°9 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B09_Key)
-- ::item_rare:: [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration)
+- ::item_rare:: [⭐Amulet of Restoration⭐](https://bg3.wiki/wiki/Amulet_of_Restoration)
 - Talk to the [head clerk](https://bg3.wiki/wiki/Bloris_Meadhoney) to be given access to the safes and vaults
 - Stone Lord encounter
 - Safes: Each safe can be picked by passing a DC 20 sleight of hand check, or by finding its corresponding key
@@ -1200,20 +1204,20 @@
 
 
 # Lower City - Elerrathin's Home (Jaheira's Basement)
-- ::item_veryrare:: [Belm](https://bg3.wiki/wiki/Belm)
+- ::item_veryrare:: [⭐Belm⭐](https://bg3.wiki/wiki/⭐Belm⭐)
 - ::item_veryrare:: [Khalid's Gift](https://bg3.wiki/wiki/Khalid's%20Gift)
 - ::item_veryrare:: [Staff of the Ram](https://bg3.wiki/wiki/Staff%20of%20the%20Ram)
 
 
 # Lower City - Lady Jannath's Estate
 - ::item_story:: [High Security Vault n°2 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B02_Key)
-- ::item_rare:: [Hand Crossbow +2](https://bg3.wiki/wiki/Hand%20Crossbow%20+2)
+- ::item_rare:: [⭐Hand Crossbow +2⭐](https://bg3.wiki/wiki/Hand%20Crossbow%20+2)
 
 
 # Lower City - Cloister of Sombre Embrace
 - ::task:: Act 3 - [A Familiar Face](https://bg3.wiki/wiki/A%20Familiar%20Face)
 - ::item_story:: [High Security Vault n°8 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%B08_Key)
-- ::item_legendary:: [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia's%20Walking%20Fortress)
+- ::item_legendary:: [⭐Viconia's Walking Fortress⭐](https://bg3.wiki/wiki/Viconia's%20Walking%20Fortress)
 - ::item_veryrare:: [Handmaiden's Mace](https://bg3.wiki/wiki/Handmaiden's%20Mace)
 - ::item_rare:: [Viconia's Priestess Robe](https://bg3.wiki/wiki/Viconia's%20Priestess%20Robe)
 
@@ -1236,9 +1240,9 @@
 # Undercity - City Sweres
 - ::item_rare:: [Breaching Pikestaff](https://bg3.wiki/wiki/Breaching%20Pikestaff)  Lower City Sewers
 - ::item_rare:: [Magic Amulet](https://bg3.wiki/wiki/Magic%20Amulet)  Lower City Sewers, have to put Sarin (skeleton?) back together
-- ::item_uncommon:: [Cindermoth Cloak](https://bg3.wiki/wiki/Cindermoth%20Cloak)  Lower City Sewers, worn by a greasy wizard
+- ::item_uncommon:: [⭐Cindermoth Cloak⭐](https://bg3.wiki/wiki/Cindermoth%20Cloak)  Lower City Sewers, worn by a greasy wizard
 - Kitrak Voss
-  - ::item_legendary:: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane)
+  - ::item_legendary:: [⭐Silver Sword of the Astral Plane⭐](https://bg3.wiki/wiki/Silver%20Sword%20of%20the%20Astral%20Plane)
 
 
 # Undercity - Guildhall
@@ -1250,7 +1254,7 @@
 # Undercity - Undercity Ruins
 - [Voiceless Penitent Bareki](https://bg3.wiki/wiki/Bareki) odders merchant services
   - ::item_veryrare:: [Armour of Moonbasking](https://bg3.wiki/wiki/Armour%20of%20Moonbasking)
-  - ::item_veryrare:: [Bonespike Helmet](https://bg3.wiki/wiki/Bonespike%20Helmet)
+  - ::item_veryrare:: [⭐Bonespike Helmet⭐](https://bg3.wiki/wiki/Bonespike%20Helmet)
 
 
 # Undercity - Temple of Bhaal
@@ -1375,7 +1379,6 @@
 - ::item_rare:: [After Death Do Us Part](https://bg3.wiki/wiki/After%20Death%20Do%20Us%20Part)
 - ::item_rare:: [Blade of Oppressed Souls](https://bg3.wiki/wiki/Blade%20of%20Oppressed%20Souls)
 - ::item_rare:: [Dagger +2](https://bg3.wiki/wiki/Dagger%20+2)
-- ::item_rare:: [Dolor Amarus](https://bg3.wiki/wiki/Dolor%20Amarus)
 - ::item_rare:: [Gold Wyrmling Staff](https://bg3.wiki/wiki/Gold%20Wyrmling%20Staff)
 - ::item_rare:: [Infernal Mace](https://bg3.wiki/wiki/Infernal%20Mace)
 - ::item_rare:: [Jhannyl's Gloves](https://bg3.wiki/wiki/Jhannyl's%20Gloves)
@@ -1384,16 +1387,11 @@
 - ::item_rare:: [Scimitar +2](https://bg3.wiki/wiki/Scimitar%20+2)
 - ::item_rare:: [Shortsword +2](https://bg3.wiki/wiki/Shortsword%20+2)
 - ::item_rare:: [Til Death Do Us Part](https://bg3.wiki/wiki/Til%20Death%20Do%20Us%20Part)
-- ::item_uncommon:: [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet%20of%20Misty%20Step)
-- ::item_uncommon:: [⭐Boots of Striding⭐](https://bg3.wiki/wiki/Boots%20of%20Striding)
-- ::item_uncommon:: [⭐Broodmother's Revenge⭐](https://bg3.wiki/wiki/Broodmother's%20Revenge)
 - ::item_uncommon:: [Coldbrim Hat](https://bg3.wiki/wiki/Coldbrim%20Hat)
 - ::item_uncommon:: [Dark Justiciar Helm](https://bg3.wiki/wiki/Dark%20Justiciar%20Helm)
-- ::item_uncommon:: [⭐Gloves of the Growling Underdog⭐](https://bg3.wiki/wiki/Gloves%20of%20the%20Growling%20Underdog)
 - ::item_uncommon:: [Katana](https://bg3.wiki/wiki/Katana)
 - ::item_uncommon:: [Necklace of Elemental Augmentation](https://bg3.wiki/wiki/Necklace%20of%20Elemental%20Augmentation)
 - ::item_uncommon:: [Tarnished Charm](https://bg3.wiki/wiki/Tarnished%20Charm)
-- ::item_uncommon:: [The Whispering Promise](https://bg3.wiki/wiki/The%20Whispering%20Promise)
 - ::item_uncommon:: [Very Heavy Greataxe](https://bg3.wiki/wiki/Very%20Heavy%20Greataxe)
 - ::item_uncommon:: [Vision of the Absolute](https://bg3.wiki/wiki/Vision%20of%20the%20Absolute)
 - ::item_uncommon:: [Winter's Clutches](https://bg3.wiki/wiki/Winter's%20Clutches)
